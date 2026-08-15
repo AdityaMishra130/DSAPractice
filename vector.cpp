@@ -21,3 +21,4 @@ int main()
     }
     printVec(v);
 }//just a normal commit 
+//are just a regular commit bro 
