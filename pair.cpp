@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+//just a basic#include <bits/stdc++.h>
 using namespace std;
 int main()
 {
