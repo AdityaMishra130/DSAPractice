@@ -1,4 +1,4 @@
-just #include <bits/stdc++.h>
+a just #include <bits/stdc++.h>
 using namespace std;
 void printVec(vector<int> v)
 {
