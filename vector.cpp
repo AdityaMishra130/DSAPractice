@@ -1,4 +1,4 @@
-for commit normal a just #include <bits/stdc++.h>
+my for commit normal a just #include <bits/stdc++.h>
 using namespace std;
 void printVec(vector<int> v)
 {
