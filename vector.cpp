@@ -1,4 +1,4 @@
-normal a just #include <bits/stdc++.h>
+commit normal a just #include <bits/stdc++.h>
 using namespace std;
 void printVec(vector<int> v)
 {
